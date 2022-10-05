@@ -8,7 +8,11 @@
 import UIKit
 
 class CustomTextField: UITextField {
+<<<<<<< HEAD
     init(placeholder: String, UIKeyboardType: UIKeyboardType) {
+=======
+    init(placeholder: String, keyboardType: UIKeyboardType) {
+>>>>>>> c4fc772 (second commit)
         super.init(frame: .zero)
         setupTextField(placeholder: placeholder, keyboardType: keyboardType)
     }
