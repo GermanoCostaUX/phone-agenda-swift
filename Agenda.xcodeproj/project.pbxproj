@@ -19,10 +19,7 @@
 		CE76CD1528EB7A1F001342AD /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76CD1428EB7A1F001342AD /* Contact.swift */; };
 		CE76CD1928EB7F25001342AD /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76CD1828EB7F25001342AD /* CustomTextField.swift */; };
 		CE76CD1B28EB8227001342AD /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76CD1A28EB8227001342AD /* CustomButton.swift */; };
-<<<<<<< HEAD
-=======
 		CE76CD1E28ECB812001342AD /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE76CD1D28ECB812001342AD /* AddViewController.swift */; };
->>>>>>> c4fc772 (second commit)
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,10 +56,7 @@
 		CE76CD1428EB7A1F001342AD /* Contact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
 		CE76CD1828EB7F25001342AD /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		CE76CD1A28EB8227001342AD /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
-<<<<<<< HEAD
-=======
 		CE76CD1D28ECB812001342AD /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
->>>>>>> c4fc772 (second commit)
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,10 +157,7 @@
 			isa = PBXGroup;
 			children = (
 				CE76CD1728EB7EFF001342AD /* Views */,
-<<<<<<< HEAD
-=======
 				CE76CD1D28ECB812001342AD /* AddViewController.swift */,
->>>>>>> c4fc772 (second commit)
 			);
 			path = Add;
 			sourceTree = "<group>";
@@ -312,10 +303,7 @@
 			files = (
 				CE76CCA928EB638A001342AD /* HomeViewController.swift in Sources */,
 				CE76CCA528EB638A001342AD /* AppDelegate.swift in Sources */,
-<<<<<<< HEAD
-=======
 				CE76CD1E28ECB812001342AD /* AddViewController.swift in Sources */,
->>>>>>> c4fc772 (second commit)
 				CE76CD1928EB7F25001342AD /* CustomTextField.swift in Sources */,
 				CE76CD1528EB7A1F001342AD /* Contact.swift in Sources */,
 				CE76CD1B28EB8227001342AD /* CustomButton.swift in Sources */,
